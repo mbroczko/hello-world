@@ -1,2 +1,3 @@
 # hello-world
 First steps to becoming a programmer!
+Hello! My name is Matt and I am a mechanical engineering student at UMD; graduating in May. I have always had a desire to learn the basics of computer programming, however, my major limits my ability to take classes in the field. My goal is to become experienced with the major languages (Python, C++, Java) so I can work on independent projects and maybe even start a new career path. I also plan to voluteer my time to teach kids about the STEM fields and I believe a background in coding will help me excite kids into becoming the next innovators of the world. I appreciate any help I can get from this awesome community!
